@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bigcart-report-service" />
+        <module name="authentication-server" />
+        <module name="eureka-naming-server" />
+        <module name="bigcart-order-service" />
+        <module name="bigcart-payment-service" />
+        <module name="api-gateway" />
+        <module name="bigcart-notification-service" />
+        <module name="bigcart-user-management-service" />
+        <module name="bigcart-product-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="1.8" />
+      <module name="authentication-server" target="1.8" />
+      <module name="bigcart-notification-service" target="1.8" />
+      <module name="bigcart-order-service" target="1.8" />
+      <module name="bigcart-payment-service" target="1.8" />
+      <module name="bigcart-product-service" target="1.8" />
+      <module name="bigcart-report-service" target="1.8" />
+      <module name="bigcart-user-management-service" target="1.8" />
+      <module name="eureka-naming-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="authentication-server" options="-parameters" />
+      <module name="bigcart-notification-service" options="-parameters" />
+      <module name="bigcart-order-service" options="-parameters" />
+      <module name="bigcart-payment-service" options="-parameters" />
+      <module name="bigcart-product-service" options="-parameters" />
+      <module name="bigcart-report-service" options="-parameters" />
+      <module name="bigcart-user-management-service" options="-parameters" />
+      <module name="eureka-naming-server" options="-parameters" />
+    </option>
+  </component>
+</project>

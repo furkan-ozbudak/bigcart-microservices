@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigcart-api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/bigcart-api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigcart-authentication-server/authentication-server.iml" filepath="$PROJECT_DIR$/bigcart-authentication-server/authentication-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigcart-notification-service/bigcart-notification-service.iml" filepath="$PROJECT_DIR$/bigcart-notification-service/bigcart-notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigcart-order-service/bigcart-order-service.iml" filepath="$PROJECT_DIR$/bigcart-order-service/bigcart-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigcart-payment-service/bigcart-payment-service.iml" filepath="$PROJECT_DIR$/bigcart-payment-service/bigcart-payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigcart-product-service/bigcart-product-service.iml" filepath="$PROJECT_DIR$/bigcart-product-service/bigcart-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigcart-report-service/bigcart-report-service.iml" filepath="$PROJECT_DIR$/bigcart-report-service/bigcart-report-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigcart-user-management-service/bigcart-user-management-service.iml" filepath="$PROJECT_DIR$/bigcart-user-management-service/bigcart-user-management-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigcart-eureka-naming-server/eureka-naming-server.iml" filepath="$PROJECT_DIR$/bigcart-eureka-naming-server/eureka-naming-server.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,45 @@
+0000000000000000000000000000000000000000 88d40ccb8331a809e241fbd939aa4674e1a02554 furkan-ozbudak <ozbudakfurkan@gmail.com> 1603677227 -0500	clone: from https://github.com/Bikino/bigcart-product-service
+88d40ccb8331a809e241fbd939aa4674e1a02554 88d40ccb8331a809e241fbd939aa4674e1a02554 furkan-ozbudak <ozbudakfurkan@gmail.com> 1603719376 -0500	reset: moving to HEAD
+88d40ccb8331a809e241fbd939aa4674e1a02554 2e463d59215054d5a3b133033907c9cfcbdb31e7 furkan-ozbudak <ozbudakfurkan@gmail.com> 1603719389 -0500	pull: Fast-forward
+2e463d59215054d5a3b133033907c9cfcbdb31e7 d89b70684d3a6347b7a37b6984832c00cc4303e8 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604081853 -0500	commit: upload image, fetch image, add full product, sellsameproduct
+d89b70684d3a6347b7a37b6984832c00cc4303e8 32d653ebf69bde0eed68886238365eb1471507fa furkan-ozbudak <ozbudakfurkan@gmail.com> 1604082573 -0500	commit: test
+32d653ebf69bde0eed68886238365eb1471507fa c40a7569470b9e44591c70dcfffe8bc46a36eda2 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604082779 -0500	commit (amend): upload product image, fetch product image, add full product
+c40a7569470b9e44591c70dcfffe8bc46a36eda2 bd3946938635b1b4bb8d3a1f55a93bd49854f83b furkan-ozbudak <ozbudakfurkan@gmail.com> 1604158561 -0500	commit: product-review relationship is fixed. Initial data creation is added.
+bd3946938635b1b4bb8d3a1f55a93bd49854f83b 693a4d7f61faa05f84ffe6e830f586134c5d8266 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604169908 -0500	commit: Requested product list DTO API is added.
+693a4d7f61faa05f84ffe6e830f586134c5d8266 77005b341f8665f487fe49a802832c0afe88e2f1 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604190102 -0500	commit: productAdminDTO bug is fixed.
+77005b341f8665f487fe49a802832c0afe88e2f1 08b9a9b144a8978ced454346a5815c22d8e13392 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604194203 -0500	commit: Get all productvendor DTO for admin is implemented.
+08b9a9b144a8978ced454346a5815c22d8e13392 f6fc79dce536b4d6fdbc64899932c4304e1c22c1 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604244272 -0600	commit: productToProductDTO
+f6fc79dce536b4d6fdbc64899932c4304e1c22c1 cc541f9a7455fc48f9d545fcc8c885ab03936bce furkan-ozbudak <ozbudakfurkan@gmail.com> 1604245823 -0600	commit: empty request body is accepted from finding products.
+cc541f9a7455fc48f9d545fcc8c885ab03936bce da529231d44186223886c8916909869112210f9e furkan-ozbudak <ozbudakfurkan@gmail.com> 1604247380 -0600	commit: request body to request paramter in pendingproducts
+da529231d44186223886c8916909869112210f9e f4f6d0cdbb15e0a09c270decc7bd1d0333bfb0cd furkan-ozbudak <ozbudakfurkan@gmail.com> 1604260893 -0600	commit: Find product DTOs by status, vendorId, productId or categoryId
+f4f6d0cdbb15e0a09c270decc7bd1d0333bfb0cd da297a48634357a74ce6f1343d897b36d321d6f2 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604271419 -0600	commit: Approve/Decline product requests
+da297a48634357a74ce6f1343d897b36d321d6f2 00344d3c51807dd771180f6bbdcf4b86327c8850 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604271890 -0600	commit: Fix category Id bug
+00344d3c51807dd771180f6bbdcf4b86327c8850 b29fcbd3e2c031d1d2813094dbf371c981a87d70 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604287111 -0600	commit: category
+b29fcbd3e2c031d1d2813094dbf371c981a87d70 a7a88d70635367e2ebb69967ba7f9f7d10cf2945 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604288441 -0600	commit: Get product image is tweaked for front end
+a7a88d70635367e2ebb69967ba7f9f7d10cf2945 996c45cfcb7d877e1402e90bbdd3b25b6ea76ae6 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604344499 -0600	commit: Delete category only if it or its' subcategories doesn't contain any product.
+996c45cfcb7d877e1402e90bbdd3b25b6ea76ae6 ef0e832324e6ed3676ab8406a58281a8dfd79320 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604346243 -0600	commit: Get list of product names by list of product ids
+ef0e832324e6ed3676ab8406a58281a8dfd79320 19e0cb2cc04a8208cc73f10287e070a15349cb97 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604356327 -0600	commit: dynamic vendor name is done with resttemplate
+19e0cb2cc04a8208cc73f10287e070a15349cb97 ad70013b7c856e9b1b915c6d273005a988ab93ea furkan-ozbudak <ozbudakfurkan@gmail.com> 1604358809 -0600	commit: new APIs with vendor names
+ad70013b7c856e9b1b915c6d273005a988ab93ea f7f23ab348fd795bfb8353153d913eddd2d07ca7 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604360631 -0600	commit: Bad request is converted to status OK for the small bug
+f7f23ab348fd795bfb8353153d913eddd2d07ca7 f13187a921488deaa9aa89da5cc7c457774f25cf furkan-ozbudak <ozbudakfurkan@gmail.com> 1604370559 -0600	commit: email notificaition initialized
+f13187a921488deaa9aa89da5cc7c457774f25cf e6af1c26c1776914098962d9b9f193ad39b19fa4 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604425105 -0600	commit: Get review, get review list, post review, delete review, syncronize ratings, new email model
+e6af1c26c1776914098962d9b9f193ad39b19fa4 a1008734a4578d015c9d1aa6924117ccf90bfcc3 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604437550 -0600	commit: maximum image upload size is changed to 50MB
+a1008734a4578d015c9d1aa6924117ccf90bfcc3 62992129f4188cd38228585198217ba5c5047f4b furkan-ozbudak <ozbudakfurkan@gmail.com> 1604438836 -0600	commit: image response size is configured.
+62992129f4188cd38228585198217ba5c5047f4b ef163adaa005638604be074acae991bd207b0ecf furkan-ozbudak <ozbudakfurkan@gmail.com> 1604440539 -0600	commit: image samples are added
+ef163adaa005638604be074acae991bd207b0ecf 52c58c4dd257e066a32adfbfb03fe28af5e70061 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604440631 -0600	commit: image samples are added for github
+52c58c4dd257e066a32adfbfb03fe28af5e70061 e7aea599160c30ddb08a5c292a4f064d4e060739 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604446513 -0600	commit: Add vendor product exception handling is done.
+e7aea599160c30ddb08a5c292a4f064d4e060739 e7aea599160c30ddb08a5c292a4f064d4e060739 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604456986 -0600	reset: moving to HEAD
+e7aea599160c30ddb08a5c292a4f064d4e060739 4ddbe421d6c664a08b343854955e78f6761676d5 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604456991 -0600	pull: Fast-forward
+4ddbe421d6c664a08b343854955e78f6761676d5 4ddbe421d6c664a08b343854955e78f6761676d5 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604458906 -0600	reset: moving to HEAD
+4ddbe421d6c664a08b343854955e78f6761676d5 24c95569766774ebdc790bf540eab615deb53937 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604459237 -0600	pull: Fast-forward
+24c95569766774ebdc790bf540eab615deb53937 24c95569766774ebdc790bf540eab615deb53937 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604459736 -0600	reset: moving to HEAD
+24c95569766774ebdc790bf540eab615deb53937 23febacfb0db54647ab0b3ffa00eec4a9f490017 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604501417 -0600	pull: Fast-forward
+23febacfb0db54647ab0b3ffa00eec4a9f490017 80668e64a566ef26a6072d418828ccf9f1918e01 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604550019 -0600	pull: Fast-forward
+80668e64a566ef26a6072d418828ccf9f1918e01 f5bf91587931bfa61855314f07fc9bf2ef1bda30 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604590241 -0600	pull: Fast-forward
+f5bf91587931bfa61855314f07fc9bf2ef1bda30 22ca84c95a61762d6995b26a28e8d2cbdcb5efdc furkan-ozbudak <ozbudakfurkan@gmail.com> 1604596272 -0600	pull: Fast-forward
+22ca84c95a61762d6995b26a28e8d2cbdcb5efdc 22ca84c95a61762d6995b26a28e8d2cbdcb5efdc furkan-ozbudak <ozbudakfurkan@gmail.com> 1604597495 -0600	reset: moving to HEAD
+22ca84c95a61762d6995b26a28e8d2cbdcb5efdc 650fb56a96831fea725cfc18ecacd3c2f7775594 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604599372 -0600	pull: Fast-forward
+650fb56a96831fea725cfc18ecacd3c2f7775594 650fb56a96831fea725cfc18ecacd3c2f7775594 furkan-ozbudak <ozbudakfurkan@gmail.com> 1604715715 -0600	reset: moving to HEAD
+650fb56a96831fea725cfc18ecacd3c2f7775594 14a486cd633c97a37d933b2e142fd356d681cf5a furkan-ozbudak <ozbudakfurkan@gmail.com> 1604715718 -0600	pull: Fast-forward
+14a486cd633c97a37d933b2e142fd356d681cf5a 14a486cd633c97a37d933b2e142fd356d681cf5a furkan-ozbudak <ozbudakfurkan@gmail.com> 1604788506 -0600	reset: moving to HEAD
+14a486cd633c97a37d933b2e142fd356d681cf5a a0b23522b2fac1ba56c4f60c8382e6ed069b93fd furkan-ozbudak <ozbudakfurkan@gmail.com> 1604788509 -0600	pull: Fast-forward

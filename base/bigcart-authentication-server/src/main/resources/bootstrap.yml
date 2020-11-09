@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: bigcart-authentication-server
+
+server:
+  port: 0
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
