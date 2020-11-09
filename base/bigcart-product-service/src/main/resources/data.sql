@@ -10,9 +10,9 @@ insert into category(name, parent_category_id) values ('microwaves', 2)--6
 
 insert into category(name, parent_category_id) values ('shoes', 3)--7
 
-insert into category(name, parent_category_id) values ('Headphones', 1)--8
+insert into category(name, parent_category_id) values ('headphones', 1)--8
 
-insert into category(name, parent_category_id) values ('Bikes', 4)--9
+insert into category(name, parent_category_id) values ('bikes', 4)--9
 
 insert into category(name, parent_category_id) values ('watches', 3)--10
 
